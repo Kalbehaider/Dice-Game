@@ -1,6 +1,6 @@
 # Dice Game  🎊 🎈
 
-This is an implementation of the Pig game based on the tutorial by Jonas Schmedtmann in his JavaScript course.
+This is an implementation of the Dice game based on the tutorial by Jonas Schmedtmann in his JavaScript course.
 
 ## Game Rules 🤩⭐
 
